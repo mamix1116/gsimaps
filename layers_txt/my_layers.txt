@@ -22,7 +22,7 @@
           "title": "池袋からサミット会場のルート",
           "url": "https://github.com/mamix1116/gsimaps/blob/gh-pages/example231/2/3/1.geojson",
           "html": "<a href='https://github.com/mamix1116/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>"
-          "maxzoom":18,
+          "maxZoom":18,
           "maxNativeZoom": 2
         }
       ]
