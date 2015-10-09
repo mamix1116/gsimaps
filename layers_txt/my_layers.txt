@@ -24,6 +24,15 @@
           "html": "<a href='https://github.com/mamix1116/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>",
           "maxzoom":18,
           "maxNativeZoom": 2
+        },
+        {
+          "type": "Layer",
+          "id": "school231",
+          "title": "小学校（23区）",
+          "url": "http://mamix1116.github.io/gsimaps/school231/{z}/{x}/{y}.geojson",
+          "html": "<a href='https://github.com/mamix1116/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>",
+          "maxzoom":18,
+          "maxNativeZoom": 2
         }
       ]
       
