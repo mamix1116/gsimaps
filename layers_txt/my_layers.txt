@@ -15,6 +15,15 @@
           "cocotile": true,
           "legendUrl": "http://maps.gsi.go.jp/development/ichiran.html#std",
           "html": "<a href='https://github.com/mamix1116/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>"
+        },
+        {
+          "type": "Layer",
+          "id": "example231",
+          "title": "池袋からサミット会場のルート",
+          "url": "http://mamix1116.github.io/gsimaps/blob/gh-pages/example231/2/3/1.geojson",
+          "html": "<a href='https://github.com/mamix1116/gsimaps/edit/gh-pages/layers_txt/my_layers.txt'>編集</a>"
+          "maxzoom":18,
+          "maxNativeZoom": 2
         }
       ]
       
